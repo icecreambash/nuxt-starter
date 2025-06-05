@@ -31,7 +31,7 @@ A clean and modern **Nuxt 3 starter** template with pre-installed **Tailwind CSS
 git clone https://github.com/icecreambash/nuxt-starter.git
 
 # 2. Navigate into the project
-cd your-nuxt-starter
+cd nuxt-starter
 
 # 3. Install dependencies
 npm install
